@@ -28,10 +28,11 @@ git checkout
 ```sh
 git diff
 ```
+Указать в какую ветку отправляем
 ```sh
 git push -u origin main
 ```
-
+Отправить в репу
 ```sh
 git push 
 ```
