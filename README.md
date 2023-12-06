@@ -16,3 +16,10 @@
 
 1. Элемент нумерованного списка.
 2. Второй элемент.
+
+> Это цитата.
+
+![Pict](https://trial-sport.ru/images/catalog/2022_2023_ba_bindings_atom_3_2853917.jpg)
+
+[Ссылка на Google](https://www.google.com)
+
