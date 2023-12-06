@@ -28,3 +28,10 @@ git checkout
 ```sh
 git diff
 ```
+```sh
+git push -u origin main
+```
+
+```sh
+git push 
+```
