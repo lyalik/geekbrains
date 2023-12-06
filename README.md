@@ -24,3 +24,5 @@
 [Ссылка на Google](https://www.google.com)
 
 print("Hello, World!")
+
+Вывод: `---`, `___`, `***`.
