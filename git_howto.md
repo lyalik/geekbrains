@@ -36,3 +36,24 @@ git push -u origin main
 ```sh
 git push 
 ```
+
+Удаление через консоль
+Удаляет локальную ветку, если уже сделан её пуш и мердж:
+```sh
+git branch -d branch_name
+```
+Принудительно (force) удаляет локальную ветку, несмотря ни на что:
+```sh
+git branch -D branch_name
+```
+Теперь удалим такую же ветку из самого репозитория:
+```sh
+git push origin --delete stage
+```
+Удаление всех локальных веток, если не существует удаленных (были удалены):
+```sh
+git fetch --all --prune
+```
+```sh
+git branch -vv | grep ': gone]' | awk '{print $1}' | xargs git branch -d
+```
