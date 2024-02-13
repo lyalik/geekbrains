@@ -1,5 +1,5 @@
 import java.util.*;
-// -*- coding: utf-8 -*-
+
 class Ноутбук {
     private String модель;
     private int объемОЗУ;
@@ -37,7 +37,7 @@ class Ноутбук {
 
     @Override
     public String toString() {
-        return "\u041D\u043E\u0443\u0442\u0431\u0443\u043A{" +
+        return "Ноутбук{" +
                 "модель='" + модель + '\'' +
                 ", объемОЗУ=" + объемОЗУ +
                 ", объемЖД=" + объемЖД +
