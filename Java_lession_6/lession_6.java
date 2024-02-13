@@ -1,5 +1,5 @@
 import java.util.*;
-
+// -*- coding: utf-8 -*-
 class Ноутбук {
     private String модель;
     private int объемОЗУ;
