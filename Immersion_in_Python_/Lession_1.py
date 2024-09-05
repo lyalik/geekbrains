@@ -120,4 +120,11 @@
 #
 # # Запуск игры
 # guess_number()
-
+#
+# answer = input("Введите что-нибудь: ")
+#
+# print(type(answer))
+# print(id(answer))
+# print(hash(answer))
+# help("Hello world!")
+# help()
