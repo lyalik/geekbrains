@@ -1,0 +1,8 @@
+Exception: GluttonyError
+Exception: CarCrashError
+Exception: CarCrashError
+Exception: CarCrashError
+Exception: DepressionError
+Exception: CarCrashError
+Exception: DrunkError
+Exception: DrunkError
